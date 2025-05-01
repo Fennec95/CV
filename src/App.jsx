@@ -15,10 +15,6 @@ function App() {
     <Router>
       <Header />
       <main>
-        <Routes>
-          <Route path="/CV/" element={<Hero />} />
-        </Routes>
-
         {/* Les liens de navigation avec HashLink pour un défilement fluide */}
         <nav className="absolute top-20 left-0 right-0">
           <ul className="flex justify-center space-x-4">
