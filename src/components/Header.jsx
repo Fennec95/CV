@@ -10,7 +10,7 @@ export default function Header() {
             <img
               src="assets/quetes/image/fennec1.jpg" // Remplacez par le chemin de votre logo
               alt="Logo"
-              className="w-48 h-48 sm:w-16 sm:h-16" // Ajustez la taille du logo
+              className="w-12 h-12 sm:w-16 sm:h-16" // Ajustez la taille du logo
             />
           </Link>
         </div>
