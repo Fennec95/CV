@@ -6,9 +6,9 @@ export default function Header() {
       <nav className="flex items-center justify-between p-4 max-w-screen-xl mx-auto">
         {/* Logo */}
         <div className="text-2xl font-bold">
-          <Link to="/CV/" className="hover:text-gray-400">
+          <Link to="/CV/#hero" className="hover:text-gray-400">
             <img
-              src="assets/quetes/image/fennec1.jpg" // Remplacez par le chemin de votre logo
+              src="assets/quetes/image/fennec1.png" // Remplacez par le chemin de votre logo
               alt="Logo"
               className="w-12 h-12 sm:w-16 sm:h-16" // Ajustez la taille du logo
             />

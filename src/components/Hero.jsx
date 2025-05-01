@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 export default function Hero() {
   return (
     <section
-      id="/CV/"
+      id="hero"
       className="relative h-screen pt-0 flex items-center justify-center text-center text-white bg-black overflow-hidden font-garamond"
     >
       {/* Vidéo de fond */}
