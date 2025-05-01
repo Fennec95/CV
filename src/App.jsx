@@ -23,11 +23,6 @@ function App() {
         <nav className="absolute top-20 left-0 right-0">
           <ul className="flex justify-center space-x-4">
             <li>
-              <HashLink smooth to="#hero">
-                Accueil
-              </HashLink>
-            </li>
-            <li>
               <HashLink smooth to="#profil">
                 Profil
               </HashLink>

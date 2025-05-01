@@ -40,22 +40,6 @@ export default function Hero() {
         <p className="mt-6 sm:mt-8 text-base sm:text-lg md:text-xl lg:text-2xl italic text-white font-cormorant font-bold max-w-xl sm:max-w-2xl mx-auto leading-relaxed">
           `` Chaque plan est une offrande, chaque effet un murmure. ''
         </p>
-
-        {/* Bouton d'exploration */}
-        <motion.div
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-          className="mt-8 sm:mt-10 inline-block px-6 sm:px-8 py-2 sm:py-3 bg-white/10 border border-white/20 rounded-xl text-xs sm:text-sm uppercase tracking-widest font-semibold font-crimson text-white hover:bg-white/20 transition backdrop-blur-md shadow-lg"
-        >
-          {/* Utilisation de Link */}
-          <Link
-            to="/#profil"
-            className="inline-block"
-            aria-label="Explorer mon monde"
-          >
-            Explorer mon monde
-          </Link>
-        </motion.div>
       </div>
     </section>
   );
