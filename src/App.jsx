@@ -1,5 +1,4 @@
-import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import ParticlesBackground from "./components/Particle";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
@@ -10,6 +9,7 @@ import ProjetDetail from "./components/ProjetDetail";
 import Relique from "./components/Reliques";
 import Career from "./components/Career";
 import Footer from "./components/Footer";
+
 function App() {
   return (
     <Router>

@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 
 export default function Hero() {
   return (
@@ -36,7 +37,8 @@ export default function Hero() {
         </p>
 
         <motion.a
-          href="#profil"
+          as={Link}
+          to="#profil"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           className="mt-8 sm:mt-10 inline-block px-6 sm:px-8 py-2 sm:py-3 bg-white/10 border border-white/20 rounded-xl text-xs sm:text-sm uppercase tracking-widest font-semibold font-crimson text-white hover:bg-white/20 transition backdrop-blur-md shadow-lg"
