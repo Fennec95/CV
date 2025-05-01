@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Audiovisuel",
+    "type": "Passion & métier",
+    "description": "Le langage de l’image et du son comme mode d’expression. Montage, réalisation, écriture visuelle."
+  },
+  {
+    "id": 2,
+    "title": "Musique",
+    "type": "Création & écoute",
+    "description": "Exploration de styles variés, production sur FL Studio, univers phonk et sound design."
+  },
+  {
+    "id": 3,
+    "title": "Art",
+    "type": "Esthétique & inspiration",
+    "description": "De Miyazaki à Junji Ito : j'aime les visions fortes, les univers marqués, et les émotions visuelles puissantes."
+  },
+  {
+    "id": 4,
+    "title": "Chaîne YouTube",
+    "type": "Création de contenu",
+    "description": "Expérimentations autour de la narration, du montage et du rythme, parfois pour divertir, toujours pour exprimer."
+  },
+  {
+    "id": 5,
+    "title": "Cinéma",
+    "type": "Culture & analyse",
+    "description": "Des classiques aux expériences alternatives. Analyse, décorticage, passion dévorante."
+  },
+  {
+    "id": 6,
+    "title": "Jeux Vidéo",
+    "type": "Gameplay & storytelling",
+    "description": "Univers immersifs, mécaniques de jeu, narration interactive. Fervent défenseur du jeu comme forme d'art."
+  },
+  {
+    "id": 7,
+    "title": "Lecture",
+    "type": "Imagination & réflexion",
+    "description": "Du manga à la science-fiction en passant par l’essai politique ou psychologique. Une passion de l’évasion et de la connaissance."
+  },
+  {
+    "id": 8,
+    "title": "Animation",
+    "type": "Mouvements & émotions",
+    "description": "Qu’elle soit japonaise, occidentale ou expérimentale, l’animation me fascine par sa puissance narrative et poétique."
+  },
+  {
+    "id": 9,
+    "title": "Informatique & Hardware",
+    "type": "Technologie & curiosité",
+    "description": "Comprendre, démonter, optimiser. De l'assemblage PC à l'exploration logicielle, j’aime bidouiller."
+  },
+  {
+    "id": 10,
+    "title": "Jeux de société",
+    "type": "Stratégie & convivialité",
+    "description": "Jouer pour tisser des liens, affronter, rire, bluffer, construire des alliances ou les trahir."
+  }
+]

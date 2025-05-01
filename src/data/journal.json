@@ -1,0 +1,838 @@
+[
+  {
+    "id": 1,
+    "title": "Nordhimmel",
+    "description": "utilisation du jeux TownScaper + Photoshop",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/city.png",
+    "link": "images/assets/quetes/contenu/photo/city.png"
+  },
+  {
+    "id": 2,
+    "title": "Island",
+    "description": "Composition Blender",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/tree.png",
+    "link": "images/assets/quetes/contenu/photo/tree.png"
+  },
+  {
+    "id": 3,
+    "title": " Demon",
+    "description": "Shooting Light Painting + Photoshop",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/oni.jpg",
+    "link": "images/assets/quetes/contenu/photo/oni.jpg"
+  },
+  {
+    "id": 4,
+    "title": " Bande Démo- 2025",
+    "description": "Bande Démo stylisé 2025",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "link": "https://drive.google.com/file/d/19Uls6u0YJUsL8sfqqYg3hIPrE9Jh5KVE"
+  },
+  {
+    "id": 5,
+    "title": "INTRO YOUTUBE / TOUKSOU - 2017",
+    "description": "intro youtube pour la chaïne Touksou Show - After Effect CS6",
+    "date": "2017",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1UnHNVahj9NapfpsFaB-MxKR3QWgtoJv5/view?usp=sharing"
+  },
+  {
+    "id": 6,
+    "title": "BORDERLINE - COURT METRAGE - 2017",
+    "description": "Concours Court Métrage - thème de la maladie mentale.",
+    "date": "2019",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1YSwP0vwGyCK9MwrzJUwoGo7G-ZHYYfjb/view?usp=sharing"
+  },
+  {
+    "id": 7,
+    "title": "PAYE TON REVE - COURT METRAGE - 2022",
+    "description": "Nikon Festival 2022",
+    "date": "2022",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1G1r6ZtmiFaneHcanXPjSA4RqPg3VMbmF/view?usp=sharing"
+  },
+  {
+    "id": 8,
+    "title": "Drapeau Blender - 2019",
+    "description": "Test Blender + After Effect (Compositing)",
+    "date": "2019",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1oDSjmUHtP1NctHKQDe2oXWs_NHpK5TDM/view?usp=sharing"
+  },
+  {
+    "id": 9,
+    "title": "PROTOTYPE INTRO PLAY_PAUSE",
+    "description": "Prototype proposé au Rappeur OGB pour son émission Play_Pause",
+    "date": "2020",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/18Y7ScCt8_FrEEPw1YxrgC3v9tTKK5whk/view?usp=sharing"
+  },
+  {
+    "id": 10,
+    "title": "INTRO WFS - 2016",
+    "description": "Intro pour une ancienne émission Youtube Le White Fennec Show",
+    "date": "2016",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/11K7ORkSoBgN6n_799FvBwDBXgfJlYCoH/view?usp=sharing"
+  },
+  {
+    "id": 11,
+    "title": "  TEST UNREAL ENGINE 5 - 2025",
+    "description": "Premier Export Unreal Engine 5 avec Chroma",
+    "date": "2025",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1vL6-BOAAnSZ5R4R25ba_Hvp4FKZDEX13/view?usp=sharing"
+  },
+  {
+    "id": 12,
+    "title": "Prestation / MAX RQ - Musicien ",
+    "description": "Captation vidéo d'une prestation du musicien et Interprète Max RQ (IG)",
+    "date": "2017",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1FQoT21p3NPZtDUE27jpwQ5bKZTDCE40h/view?usp=sharing"
+  },
+  {
+    "id": 13,
+    "title": "Fresque - Mairie de Sevran ",
+    "description": "Captation vidéo de la création d'une fresque pour le lycée de Sevran",
+    "date": "2023",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1TJ9Pv7vIze9R8lBm0CktiK2iUSDpEO82/view?usp=sharing"
+  },
+  {
+    "id": 14,
+    "title": "Post IG - APS",
+    "description": "Post crée afin de promouvoir Alpha Project Studio",
+    "date": "2023",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1YaU3iaeU2uvzmpi-lLymuCkoavAxsLF9/view?usp=sharing"
+  },
+  {
+    "id": 15,
+    "title": "TEMPLE - BLENDER SHORT ANIMATION",
+    "description": "Test scene compositing - blender",
+    "date": "2024",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1s1pM9vl2TqChpCnIUtkuU1NfqoU0eDhg/view?usp=sharing"
+  },
+  {
+    "id": 16,
+    "title": "MOUNTAIN - BLENDER SHORT ANIMATION",
+    "description": "Test scene compositing - blender",
+    "date": "2024",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1M3d1QQ6EystTcMpRrR4HwIq4s20iD1QL/view?usp=sharing"
+  },
+  {
+    "id": 17,
+    "title": "VIRUS - BLENDER SHORT ANIMATION",
+    "description": "Test Geometry_Node - Blender",
+    "date": "2024",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1xpKAFzdkl3KJrenqoyPoolhjVHma-1RC/view?usp=sharing"
+  },
+  {
+    "id": 18,
+    "title": "INTERVIEWS L'ARTISTE - RAP PUNCHLINES",
+    "description": "Montage de l'interviews faites par 7vision pour Rap Punchline",
+    "date": "2020",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1uQY5235PTsUgmKb6UkjnvDTVyhef4B-U/view?usp=sharing"
+  },
+  {
+    "id": 19,
+    "title": "JAGER  - PROMO 2",
+    "description": "Projet KickStarter - Série non sortis",
+    "date": "2018",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/16Wp5-TtEQMhvqLe1NPHDsggGQN42iQBU/view?usp=sharing"
+  },
+  {
+    "id": 20,
+    "title": "JAGER  - PROMO 1",
+    "description": "Projet KickStarter - Série non sortis",
+    "date": "2018",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1yU4oJDSHxtPa1RQTU-9P5QhAhjIF3yBY/view?usp=sharing"
+  },
+  {
+    "id": 21,
+    "title": "MAD - OOH",
+    "description": "Clip pout L'artiste MAD",
+    "date": "2017",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "status": "Terminé",
+    "link": "https://drive.google.com/file/d/1WldJWp-QyXj6BuAaHlsVFWkuiJDuxypU/view?usp=sharing"
+  },
+  {
+    "id": 22,
+    "title": "Assistant post",
+    "description": "petit software pour analyser la performance de ses post pour les reseaux sociaux",
+    "date": "2025",
+    "category": "Code",
+    "image": "images/assets/quetes/image/code/fennec.gif",
+    "status": "Terminé",
+    "link": "https://github.com/Fennec95/Assistant-de-Post-sur-reseau-social-V1"
+  },
+  {
+    "id": 23,
+    "title": "Concept - Promo AKIN",
+    "description": "Composition ex-nihilo Photoshop pour AKIN SHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/AKIN.jpg",
+    "link": "images/assets/quetes/contenu/photo/AKIN.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Anti-Vax",
+    "description": "Composition ex-nihilo Photoshop Contexte du COVID-19",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/Anti-Vax.jpg",
+    "link": "images/assets/quetes/contenu/photo/Anti-Vax.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Bannière Twitch - Ketsu_TTV",
+    "description": "Composition Blender + Photoshop pour le streamer 'Ketsu_TTV'",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/banniere.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/banniere.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Map RPG",
+    "description": "Prototype de map pour projet RPG sur INKARNATE",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/map.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/map.png"
+  },
+  {
+    "id": 27,
+    "title": "TEMPLE - BLENDER SHORT ANIMATION Screenshot",
+    "description": "composition blender",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/fire.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/fire.png"
+  },
+  {
+    "id": 28,
+    "title": "Gate",
+    "description": "composition Blender + Photoshop",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/gate.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/gate.png"
+  },
+  {
+    "id": 29,
+    "title": "Hell Gate",
+    "description": "composition Blender + Photoshop",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/hellgate.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/hellgate.png"
+  },
+  {
+    "id": 30,
+    "title": "Logo E-sport 'Faster Fang' - Illustrator ",
+    "description": "Logo concept pour equipe E - Sport sur Adobe Illustrator",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/ff.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/ff.png"
+  },
+  {
+    "id": 31,
+    "title": "Logo Next Sound Studio ",
+    "description": "logo pour le studio d'enregistrement N.S.S sur Adobe Illustrator",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/nss.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/nss.png"
+  },
+  {
+    "id": 32,
+    "title": "Logo Taylor Made Software ",
+    "description": "Logo pour développeur JAVA indépendant sur Adobe Illustrator",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/tms.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/tms.png"
+  },
+  {
+    "id": 33,
+    "title": "Logo Alpha Project Studio Version 1 ",
+    "description": "Logo pour production audiovisuel sur Adobe Illustrator",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/aps1.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/aps1.png"
+  },
+  {
+    "id": 34,
+    "title": "Logo Alpha Project Studio Version 2",
+    "description": "Logo pour production audiovisuel sur Adobe Illustrator",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/aps2.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/aps2.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Logo White Fennec Studio",
+    "description": "Logo pour production audiovisuel sur Adobe Illustrator",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/wfs.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/wfs.png"
+  },
+  {
+    "id": 36,
+    "title": "BARYUM",
+    "description": "Composition ex-nihilo photoshop",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/baryum.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/baryum.jpg"
+  },
+  {
+    "id": 37,
+    "title": "SAKURA",
+    "description": "Composition ex-nihilo BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/sakura.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/sakura.jpg"
+  },
+  {
+    "id": 38,
+    "title": "PACTE",
+    "description": "Composition ex-nihilo BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/diable.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/diable.png"
+  },
+  {
+    "id": 39,
+    "title": "SPIRIT",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/spirit.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/spirit.jpg"
+  },
+  {
+    "id": 40,
+    "title": "YOKAI",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/YOKAI.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/YOKAI.jpg"
+  },
+  {
+    "id": 41,
+    "title": "WRONG DESTINATION",
+    "description": "Composition ex-nihilo PHOTOSHOP avec Sylvain RIVIERE. | Artiste Graphique",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/boat.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/boat.jpg"
+  },
+  {
+    "id": 42,
+    "title": "NEON",
+    "description": "Concept Shooting | Paris avec Leo GUERIBOUT | Infographiste",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/neon.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/neon.jpg"
+  },
+  {
+    "id": 43,
+    "title": "AURA",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/aura.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/aura.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Tori",
+    "description": "Composition ex-nihilo BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/torii.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/torii.png"
+  },
+  {
+    "id": 45,
+    "title": "OTHER WORLD",
+    "description": "Composition ex-nihilo BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/other.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/other.png"
+  },
+  {
+    "id": 46,
+    "title": "ANGEL",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/angel.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/angel.jpg"
+  },
+  {
+    "id": 47,
+    "title": "ROAD TO GLORY",
+    "description": "Composition BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/rocket.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/rocket.png"
+  },
+  {
+    "id": 48,
+    "title": "SKIRMISH",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/alone.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/alone.png"
+  },
+  {
+    "id": 49,
+    "title": "LANTERN",
+    "description": "Composition ex-nihilo BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/lantern.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/lantern.png"
+  },
+  {
+    "id": 50,
+    "title": "MASK",
+    "description": "Composition ex-nihilo AFTER EFFECT ",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/mask.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/mask.png"
+  },
+  {
+    "id": 51,
+    "title": "LOGO - D-RUSH |Serveur Discord",
+    "description": "Composition ex-nihilo PHOTOSHOP ",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/logoframe.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/logoframe.png"
+  },
+  {
+    "id": 52,
+    "title": "EXCALIBUR",
+    "description": "Composition ex-nihilo BLENDER ",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/sword.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/sword.png"
+  },
+  {
+    "id": 53,
+    "title": "CURSE",
+    "description": "Composition ex-nihilo BLENDER ",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/skull.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/skull.png"
+  },
+  {
+    "id": 54,
+    "title": "SHADOW",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/SHADOW.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/SHADOW.jpg"
+  },
+  {
+    "id": 55,
+    "title": "CRYPT",
+    "description": "Composition ex-nihilo BLENDER pour prototype décor Unreal Engine 5 V1",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/crypte.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/crypte.png"
+  },
+  {
+    "id": 56,
+    "title": "SURREAL",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/surreal.jpeg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/surreal.jpeg"
+  },
+  {
+    "id": 57,
+    "title": "LEAF",
+    "description": "premier digital painting sur KRITA",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/leaf.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/leaf.jpg"
+  },
+  {
+    "id": 58,
+    "title": "LIVING ROOM",
+    "description": "concept sur BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/mattepainting1.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/mattepainting1.png"
+  },
+  {
+    "id": 59,
+    "title": "NEO TOKYO",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/tokyo.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/tokyo.jpg"
+  },
+  {
+    "id": 60,
+    "title": "LONELINESS",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/loneliness.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/loneliness.png"
+  },
+  {
+    "id": 61,
+    "title": "LOGO - FENNEC SQUAD STUDIO",
+    "description": "Composition ILLUSTRATOR pour Chaîne Youtube - ancien projet",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/fcs.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/fcs.png"
+  },
+  {
+    "id": 62,
+    "title": "CONFIDENTIAL",
+    "description": "Composition BLENDER + AFFINITY pour matière RP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/fennaria.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/fennaria.png"
+  },
+  {
+    "id": 63,
+    "title": "FOREST",
+    "description": "Composition BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/forest.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/forest.png"
+  },
+  {
+    "id": 64,
+    "title": "DAMNED",
+    "description": "Composition ex-nihilo PHOTOSHOP",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/DAMNED.jpg",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/DAMNED.jpg"
+  },
+  {
+    "id": 65,
+    "title": "FIOLE",
+    "description": "Composition ex-nihilo BLENDER TEST",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/FIOLE.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/FIOLE.png"
+  },
+  {
+    "id": 66,
+    "title": "GHOST",
+    "description": "Composition ex-nihilo BLENDER",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/haunted.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/haunted.png"
+  },
+  {
+    "id": 67,
+    "title": "ARCHIVE 1 - FIDEM V1 BLENDER",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive1.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive1.png"
+  },
+  {
+    "id": 68,
+    "title": "ARCHIVE 2 - FIDEM V1 BLENDER",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive2.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive2.png"
+  },
+  {
+    "id": 69,
+    "title": "ARCHIVE 3 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive3.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive3.png"
+  },
+  {
+    "id": 70,
+    "title": "ARCHIVE 4 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive4.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive4.png"
+  },
+  {
+    "id": 71,
+    "title": "ARCHIVE 5 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive5.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive5.png"
+  },
+  {
+    "id": 72,
+    "title": "ARCHIVE 6 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive6.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive6.png"
+  },
+  {
+    "id": 73,
+    "title": "ARCHIVE 7 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive7.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive7.png"
+  },
+  {
+    "id": 74,
+    "title": "ARCHIVE 8 - FIDEM V1 BLENDER",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive8.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive8.png"
+  },
+  {
+    "id": 75,
+    "title": "ARCHIVE 9 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive9.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive9.png"
+  },
+  {
+    "id": 76,
+    "title": "ARCHIVE 10 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive10.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive10.png"
+  },
+  {
+    "id": 77,
+    "title": "ARCHIVE 11 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive11.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive11.png"
+  },
+  {
+    "id": 78,
+    "title": "ARCHIVE 12 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive12.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive12.png"
+  },
+  {
+    "id": 79,
+    "title": "ARCHIVE 13 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive13.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive13.png"
+  },
+  {
+    "id": 80,
+    "title": "ARCHIVE 14 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive14.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive14.png"
+  },
+  {
+    "id": 81,
+    "title": "ARCHIVE 15 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive15.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive15.png"
+  },
+  {
+    "id": 82,
+    "title": "ARCHIVE 16 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive16.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive16.png"
+  },
+  {
+    "id": 83,
+    "title": "ARCHIVE 17 - FIDEM V1 UE5",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive17.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive17.png"
+  },
+  {
+    "id": 84,
+    "title": "ARCHIVE 18 - MOUNTAIN V1 BLENDER",
+    "description": "archive",
+    "category": "Photo",
+    "image": "images/assets/quetes/contenu/photo/archive18.png",
+    "status": "Terminé",
+    "link": "images/assets/quetes/contenu/photo/archive18.png"
+  },
+  {
+    "id": 85,
+    "title": "ROCKET LEAGUE INTRO CONCEPT",
+    "description": "Introduction pour un format youtube rocket league en preparation V1 non définitif - BLENDER + DA VINCI RESOLVE",
+    "category": "Vidéo",
+    "image": "images/assets/quetes/image/fennec.jpg",
+    "link": "https://drive.google.com/file/d/1LrojFW5bSAOFecRbob4Qq3nTvIDE7kKy/view?usp=sharing"
+  },
+  {
+    "id": 86,
+    "title": "Générateur De Mot de Passe",
+    "description": "Générateur de mot de passe PYTHON avec interface front-end HTML/CSS/JS",
+    "date": "2025",
+    "category": "Code",
+    "image": "images/assets/quetes/image/code/fennec.gif",
+    "status": "Terminé",
+    "link": "https://github.com/Fennec95/G-n-rateur-de-Mot-de-Passe"
+  },
+  {
+    "id": 87,
+    "title": "JEUX PYTHON 'GUESS THE NUMBER'",
+    "description": "jeux python ou tu dois deviner un numéro le plus rapidement possible. 3 mode de difficulté , indicateur sonore et fonctionnel (jeux back-end)",
+    "date": "2025",
+    "category": "Code",
+    "image": "images/assets/quetes/image/code/fennec.gif",
+    "status": "Terminé",
+    "link": "https://github.com/Fennec95/Guess_The_Number_Python"
+  },
+  {
+    "id": 88,
+    "title": "E-COMMERCE SITE (PROJET DIPLOME) : MERCADONA",
+    "description": "e-commerce python avec framework DJANGO pour site e-commerce",
+    "date": "2025",
+    "category": "Code",
+    "image": "images/assets/quetes/image/code/fennec.gif",
+    "status": "Terminé",
+    "link": "https://github.com/Fennec95/Guess_The_Number_Python"
+  },
+  {
+    "id": 89,
+    "title": "LANDING PAGE CLONE - REACT.JS",
+    "description": "exercice pour créer une landing page en React.js",
+    "date": "2025",
+    "category": "Code",
+    "image": "images/assets/quetes/image/code/fennec.gif",
+    "status": "Terminé",
+    "link": "https://github.com/Fennec95/React-Landing-Page"
+  },
+  {
+    "id": 90,
+    "title": "QUIZZ-JEUX VIDEO PYTHON",
+    "description": "Ce projet est un quiz interactif basé sur des questions liées à l'univers des jeux vidéo. Il permet aux utilisateurs de tester leurs connaissances à travers plusieurs questions avec un maximum de 3 essais par question. Après avoir terminé, l'utilisateur peut choisir de réessayer ou de quitter le quiz.",
+    "date": "2025",
+    "category": "Code",
+    "image": "images/assets/quetes/image/code/fennec.gif",
+    "status": "Terminé",
+    "link": "https://github.com/Fennec95/Quizz_Video-Game_Python"
+  },
+  {
+    "id": 91,
+    "title": "DECOUPE_PDF",
+    "description": "script python permettant de découper en plusieurs format A4 un pdf anormalement long pour l'impression",
+    "date": "2025",
+    "category": "Code",
+    "image": "images/assets/quetes/image/code/fennec.gif",
+    "status": "Terminé",
+    "link": "https://github.com/Fennec95/Decoupe_PDF"
+  }
+]
