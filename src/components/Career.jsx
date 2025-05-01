@@ -142,7 +142,7 @@ export default function DestinsPossibles() {
         playsInline
         className="absolute inset-0 w-full h-full opacity-30 object-cover -z-9"
       >
-        <source src="/src/assets/bg/forest.webm" type="video/webm" />
+        <source src="assets/bg/forest.webm" type="video/webm" />
       </video>
 
       {/* Contenu principal au-dessus de la vidéo */}

@@ -74,7 +74,7 @@ const JournalDeQuete = () => {
         playsInline
         className="absolute inset-0 w-full h-full object-cover opacity-40 -z-9"
       >
-        <source src="/src/assets/bg/bgnebula.mp4" type="video/mp4" />
+        <source src="assets/bg/bgnebula.mp4" type="video/mp4" />
       </video>
 
       <div className="relative z-10 text-center">

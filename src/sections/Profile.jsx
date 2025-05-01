@@ -14,7 +14,7 @@ const Profile = () => {
         playsInline
         className="absolute inset-0 w-full h-full object-cover object-bottom opacity-60 scale-150"
       >
-        <source src="/src/assets/bg/night.mp4" type="video/mp4" />
+        <source src="assets/bg/night.mp4" type="video/mp4" />
         Votre navigateur ne supporte pas la vidéo HTML5.
       </video>
 

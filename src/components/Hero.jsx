@@ -1,20 +1,25 @@
-import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
+import { motion } from "framer-motion";
 
 export default function Hero() {
   return (
-    <section className="relative h-screen pt-0 flex items-center justify-center text-center text-white bg-black overflow-hidden font-garamond">
+    <section
+      id="hero"
+      className="relative h-screen pt-0 flex items-center justify-center text-center text-white bg-black overflow-hidden font-garamond"
+    >
       {/* Vidéo de fond */}
-      <video
-        className="absolute top-0 left-0 w-full h-full object-cover inset-0 opacity-25"
-        autoPlay
-        loop
-        muted
-        playsInline
-      >
-        <source src="/src/assets/bg/bd1-new.mp4" type="video/mp4" />
-        Désolé, votre navigateur ne prend pas en charge la balise vidéo.
-      </video>
+      <div className="absolute top-0 left-0 w-full h-full object-cover inset-0 opacity-25">
+        <video
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="w-full h-full object-cover"
+        >
+          <source src="assets/bg/bd1-new.mp4" type="video/mp4" />
+          Désolé, votre navigateur ne prend pas en charge la balise vidéo.
+        </video>
+      </div>
 
       {/* Effet animé */}
       <motion.div
@@ -36,15 +41,21 @@ export default function Hero() {
           `` Chaque plan est une offrande, chaque effet un murmure. ''
         </p>
 
-        <motion.a
-          as={Link}
-          to="#profil"
+        {/* Bouton d'exploration */}
+        <motion.div
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           className="mt-8 sm:mt-10 inline-block px-6 sm:px-8 py-2 sm:py-3 bg-white/10 border border-white/20 rounded-xl text-xs sm:text-sm uppercase tracking-widest font-semibold font-crimson text-white hover:bg-white/20 transition backdrop-blur-md shadow-lg"
         >
-          Explorer mon monde
-        </motion.a>
+          {/* Utilisation de Link */}
+          <Link
+            to="/#profil"
+            className="inline-block"
+            aria-label="Explorer mon monde"
+          >
+            Explorer mon monde
+          </Link>
+        </motion.div>
       </div>
     </section>
   );

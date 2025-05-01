@@ -76,7 +76,7 @@ export default function Arcanes() {
         playsInline
         className="absolute inset-0 w-full h-full opacity-25 object-cover -z-10"
       >
-        <source src="/src/assets/bg/grain.webm" type="video/mp4" />
+        <source src="assets/bg/grain.webm" type="video/mp4" />
       </video>
 
       <motion.div

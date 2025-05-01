@@ -8,7 +8,7 @@ export default function CentresInteret() {
       className="relative px-6 py-24 bg-black text-white font-cormorant overflow-hidden"
     >
       {/* Fond vidéo avec overlay sombre */}
-      <div className="absolute inset-0 -z-9">
+      <div className="absolute inset-0 -z-10">
         <video
           autoPlay
           loop
@@ -16,7 +16,8 @@ export default function CentresInteret() {
           playsInline
           className="absolute w-full h-full object-cover opacity-70"
         >
-          <source src="/src/assets/bg/VHS.mp4" type="video/mp4" />
+          {/* Mise à jour du chemin vidéo pour la rendre accessible depuis le dossier public */}
+          <source src="assets/bg/VHS.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black opacity-60" />
       </div>
@@ -31,7 +32,8 @@ export default function CentresInteret() {
             key={interet.id}
             className="group relative rounded-2xl overflow-hidden p-6 border border-white bg-black shadow-[0_0_40px_#ffffff11] hover:shadow-[0_0_60px_#ffffff33] transition-all duration-500 backdrop-blur-sm"
           >
-            <div className="absolute inset-0 bg-white opacity-0 transition duration-500 pointer-events-none rounded-2xl" />
+            {/* Effet d'overlay au survol */}
+            <div className="absolute inset-0 bg-white opacity-0 transition duration-500 pointer-events-none rounded-2xl group-hover:opacity-10" />
 
             <h3 className="text-2xl font-semibold text-white mb-1 tracking-wide group-hover:text-white">
               {interet.title}
