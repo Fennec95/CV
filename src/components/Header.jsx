@@ -7,7 +7,11 @@ export default function Header() {
         {/* Logo */}
         <div className="text-2xl font-bold">
           <Link to="/CV/" className="hover:text-gray-400">
-            Charles MONTENOISE
+            <img
+              src="assets/quetes/image/fennec.jpg" // Remplacez par le chemin de votre logo
+              alt="Logo"
+              className="w-12 h-12 sm:w-16 sm:h-16" // Ajustez la taille du logo
+            />
           </Link>
         </div>
 
