@@ -16,7 +16,7 @@ function App() {
       <Header />
       <main>
         <Routes>
-          <Route path="/" element={<Hero />} />
+          <Route path="/CV/" element={<Hero />} />
         </Routes>
 
         {/* Les liens de navigation avec HashLink pour un défilement fluide */}
