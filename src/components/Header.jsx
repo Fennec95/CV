@@ -8,11 +8,12 @@ export default function Header() {
         <div className="text-2xl font-bold">
           <HashLink
             smooth
-            to="#hero"
+            to="/"
             className="hover:text-gray-400 flex items-center"
+            onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           >
             <img
-              src="/assets/quetes/image/fennec1.png"
+              src="assets/quetes/image/fennec1.png"
               alt="Logo"
               className="w-12 h-12 sm:w-16 sm:h-16"
             />
