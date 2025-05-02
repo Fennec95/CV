@@ -2,10 +2,10 @@ import { HashLink } from "react-router-hash-link";
 
 export default function Header() {
   return (
-    <header className="bg-black text-white fixed top-0 w-full z-50">
+    <header className="bg-black text-white fixed top-0 w-full z-50 font-cormorant">
       <nav className="flex justify-between p-4">
         {/* Logo */}
-        <div className="text-2xl font-bold">
+        <div className="text-4xl font-bold">
           <HashLink
             smooth
             to="/"
@@ -21,7 +21,7 @@ export default function Header() {
         </div>
 
         {/* Menu */}
-        <ul className="flex space-x-4">
+        <ul className="flex space-x-4 text-3xl items-center">
           <li>
             <HashLink smooth to="#profil" className="hover:text-gray-400">
               Profil
