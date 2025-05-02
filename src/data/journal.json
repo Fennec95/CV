@@ -4,8 +4,8 @@
     "title": "Nordhimmel",
     "description": "utilisation du jeux TownScaper + Photoshop",
     "category": "Photo",
-    "image": "/assets/quetes/contenu/photo/city.png",
-    "link": "/assets/quetes/contenu/photo/city.png"
+    "image": "assets/quetes/contenu/photo/city.png",
+    "link": "assets/quetes/contenu/photo/city.png"
   },
   {
     "id": 2,
