@@ -1,9 +1,9 @@
-import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
 
 export default function Header() {
   return (
-    <header className="bg-black text-white fixed top-0 left-0 w-full z-50 shadow-lg">
-      <nav className="flex items-center justify-between p-4 max-w-screen-xl mx-auto">
+    <header className="bg-black text-white fixed top-0 w-full z-50">
+      <nav className="flex justify-between p-4">
         {/* Logo */}
         <div className="text-2xl font-bold">
           <HashLink
@@ -12,48 +12,45 @@ export default function Header() {
             className="hover:text-gray-400 flex items-center"
           >
             <img
-              src="/assets/quetes/image/fennec1.png" // Le slash initial est important pour l'accès depuis public
+              src="/assets/quetes/image/fennec1.png"
               alt="Logo"
               className="w-12 h-12 sm:w-16 sm:h-16"
             />
           </HashLink>
         </div>
 
-        {/* Liens de navigation */}
-        <ul className="hidden sm:flex space-x-6 text-lg">
+        {/* Menu */}
+        <ul className="flex space-x-4">
           <li>
-            <a href="#profil" className="hover:text-gray-400">
+            <HashLink smooth to="#profil" className="hover:text-gray-400">
               Profil
-            </a>
+            </HashLink>
           </li>
           <li>
-            <a href="#arcanes" className="hover:text-gray-400">
+            <HashLink smooth to="#arcanes" className="hover:text-gray-400">
               Arcanes
-            </a>
+            </HashLink>
           </li>
           <li>
-            <a href="#destins" className="hover:text-gray-400">
+            <HashLink smooth to="#destins" className="hover:text-gray-400">
               Destins
-            </a>
+            </HashLink>
           </li>
           <li>
-            <a href="#quêtes" className="hover:text-gray-400">
+            <HashLink smooth to="#quêtes" className="hover:text-gray-400">
               Quêtes
-            </a>
+            </HashLink>
           </li>
           <li>
-            <a href="#centres-interet" className="hover:text-gray-400">
+            <HashLink
+              smooth
+              to="#centres-interet"
+              className="hover:text-gray-400"
+            >
               Centres d'Intérêt
-            </a>
+            </HashLink>
           </li>
         </ul>
-
-        {/* Menu hamburger pour les petits écrans */}
-        <div className="sm:hidden">
-          <button className="text-2xl">
-            <i className="fas fa-bars"></i>
-          </button>
-        </div>
       </nav>
     </header>
   );
