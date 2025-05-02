@@ -8,7 +8,7 @@ export default function Header() {
         <div className="text-4xl font-bold">
           <HashLink
             smooth
-            to="/"
+            to="/CV/"
             className="hover:text-gray-400 flex items-center"
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           >
